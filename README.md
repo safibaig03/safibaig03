@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Hi, I'm Mirza Safiulla Baig
-**Full Stack Developer | AI Enthusiast | Open Source Contributor**
+**Full Stack Developer | AI Enthusiast | Continuous Learner**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safibaig03)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/safibaig03)
